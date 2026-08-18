@@ -1,1 +1,3 @@
 hello
+
+Test if pushing changes when branches local and remote are diverged will cause an error or not.
